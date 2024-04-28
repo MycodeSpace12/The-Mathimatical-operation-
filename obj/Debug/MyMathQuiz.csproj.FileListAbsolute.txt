@@ -1,0 +1,11 @@
+C:\Users\youssef\Desktop\MyMathQuiz\bin\Debug\MyMathQuiz.exe.config
+C:\Users\youssef\Desktop\MyMathQuiz\bin\Debug\MyMathQuiz.exe
+C:\Users\youssef\Desktop\MyMathQuiz\bin\Debug\MyMathQuiz.pdb
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\MyMathQuiz.csproj.AssemblyReference.cache
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\MyMathQuiz.Properties.Resources.resources
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\MyMathQuiz.csproj.GenerateResource.cache
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\MyMathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\MyMathQuiz.exe
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\MyMathQuiz.pdb
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\Math_Quiz.frmMainMenue.resources
+C:\Users\youssef\Desktop\MyMathQuiz\obj\Debug\Math_Quiz.frmQuiz.resources
